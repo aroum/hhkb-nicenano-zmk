@@ -19,3 +19,4 @@ west build -b nice_nano_v2 -- \
 ![connector](./images/connector.jpg)
 
 ![board](./images/board.jpg)
+
